@@ -1,0 +1,25 @@
+.search button {
+    margin: 3px
+}
+
+.result table thead {
+    text-align: center;
+}
+
+.description div#clear {
+    clear: left;
+}
+
+.description h1 {
+    float: left;
+    width: 80%;
+    text-align: center;
+}
+
+.description button {
+    float: left;
+}
+
+.description div#img {
+    text-align: center;
+}
